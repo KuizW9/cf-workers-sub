@@ -251,7 +251,7 @@ async function nginx() {
             margin: 0;
             padding: 20px;
             text-align: center;
-            overflow: hidden;
+            overflow-y: auto;
         }
         h1 {
             margin-bottom: 30px;
