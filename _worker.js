@@ -341,6 +341,9 @@ async function nginx() {
         <div class="translation">只有通过爱与理解，我们才能克服分歧，建设更美好的未来。</div>
         <div class="translation">Only through love and understanding can we overcome divisions and build a better future.</div>
     </article>
+				
+				<iframe src="https://ip.skk.moe/simple-dark" style="width: 100%; border: 0"></iframe>
+				
 </body>
 </html>
 	`
